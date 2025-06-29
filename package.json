@@ -17,8 +17,8 @@
     "db:generate": "turbo -F server db:generate",
     "db:migrate": "turbo -F server db:migrate"
   },
-  "dependencies": {},
   "devDependencies": {
+    "@biomejs/biome": "2.0.6",
     "turbo": "^2.5.4"
   },
   "packageManager": "pnpm@10.12.1"

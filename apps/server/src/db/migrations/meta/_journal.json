@@ -8,6 +8,27 @@
       "when": 1751120806351,
       "tag": "0000_pretty_iron_fist",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1751201629385,
+      "tag": "0001_omniscient_ultimo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1751201705158,
+      "tag": "0002_thankful_sunspot",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1751202064423,
+      "tag": "0003_steep_jack_power",
+      "breakpoints": true
     }
   ]
 }
